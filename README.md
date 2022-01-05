@@ -12,7 +12,7 @@ A java drawing homework with Graphics2D.
 
 - 成品
 
-![pink](https://github.com/TheNovaMist/planet/blob/main/pink.png?raw=true)
+![pink](https://github.com/TheNovaMist/planet/blob/main/pink2.png?raw=true)
 
 - **每秒随机画一张小行星并显示时间**
 - **背景随机生成白色小星星**
